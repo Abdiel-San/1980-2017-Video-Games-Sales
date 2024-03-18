@@ -18,7 +18,7 @@ This entails addressing issues related to data cleaning, visualization design, a
 - Step 2 : Open power query editor & in view tab under Data preview section, check "column distribution", "column quality" & "column profile" options.
 - Step 3 : Also since by default, profile will be opened only for 1000 rows so you need to select "column profiling based on entire dataset".
 - Step 4 : It was observed that in none of the columns errors & empty values were present.".
-- Step 5: Calculated a table with dimensions including year, genre, sales in millions of USD, publisher, region, and platform.
+- Step 5: Calculated a table with dimensions including year, gender, sales in millions of USD, publisher, region, and platform.
 
 - Step 6: Created a pie chart depicting the sum of sales by country.
 
