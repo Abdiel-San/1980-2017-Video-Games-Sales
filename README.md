@@ -4,7 +4,7 @@ As part of my Microsoft BI Power BI certification from Skillsoft, I developed a 
 
 # 1980-2017 Video Games Sales
 
-### Dashboard Link : [https://app.powerbi.com/groups/me/reports/73d1aa49-56ae-4e45-b7f5-b944b87310d2/ReportSection?experience=power-bi](https://unaaccr-my.sharepoint.com/:u:/g/personal/eliam_fonseca_cruz_est_una_ac_cr/EXyK6VDDYB9Hp_Xr7jhODTIBwrlDJj5-IKGExdSrwhG3Gg?e=Lgv9hW)
+### Dashboard Link : [[https://app.powerbi.com/groups/me/reports/73d1aa49-56ae-4e45-b7f5-b944b87310d2/ReportSection?experience=power-bi](https://unaaccr-my.sharepoint.com/:u:/g/personal/eliam_fonseca_cruz_est_una_ac_cr/EXyK6VDDYB9Hp_Xr7jhODTIBwrlDJj5-IKGExdSrwhG3Gg?e=Lgv9hW)](https://unaaccr-my.sharepoint.com/:u:/g/personal/eliam_fonseca_cruz_est_una_ac_cr/EYvtbpQMXRNFkxxHidc0fc0BwsUxPexCXamsdEM5N9yz8A?e=kP9xVp)
 
 ## Problem Statement
 
